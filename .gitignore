@@ -1,0 +1,53 @@
+.env
+.env.*
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Data and outputs
+/data/
+/outputs/
+
+# Logs
+.log
+
+# OS files
+.DS_Store
+Thumbs.db
