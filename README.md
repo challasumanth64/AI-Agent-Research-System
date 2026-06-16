@@ -1,5 +1,5 @@
 
-# Multi-Agent Research System
+# AI-Agent Research System
 
 A Streamlit-based research assistant that coordinates multiple agents and tools to perform web search, scraping, synthesis, and PDF report generation. It demonstrates an experimental pipeline combining:
 
